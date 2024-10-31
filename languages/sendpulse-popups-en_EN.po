@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sendpulse-popups\n"
+"POT-Creation-Date: 2023-11-14 17:39+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: SendPulse <sendpulseintegrations@gmail.com>\n"
+"Language-Team: SendPulse\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: sendpulse-popups.php:32 sendpulse-popups.php:93
+msgid "SendPulse Pop-ups"
+msgstr ""
+
+#: sendpulse-popups.php:47
+msgid "SendPulse Pop-ups Settings"
+msgstr ""
+
+#: sendpulse-popups.php:63
+msgid "Create Your Pop-ups at SendPulse"
+msgstr ""
+
+#: sendpulse-popups.php:64
+#, php-format
+msgid ""
+"If you do not have a SendPulse account please register here: <a href=\"%s\" "
+"target=\"_blank\">REGISTER</a>"
+msgstr ""
+
+#: sendpulse-popups.php:67
+#, php-format
+msgid ""
+"Please create your Pop-ups at <b>SendPulse</b> or get code for an <a "
+"href=\"%s\">existing Pop-ups</a>:"
+msgstr ""
+
+#: sendpulse-popups.php:72
+#, php-format
+msgid ""
+"<a class=\"button button-primary\" href=\"%s\" target=\"_blank\">Create Pop-"
+"ups</a>"
+msgstr ""
+
+#: sendpulse-popups.php:101
+msgid "Paste your Pop-ups code here"
+msgstr ""
+
+#: sendpulse-popups.php:112
+msgid ""
+"Enter your Pop-ups code from SendPulse below. After you successfully save, "
+"your code will appear on your site before </body> tag."
+msgstr ""
+
+#: sendpulse-popups.php:113
+msgid ""
+"If everything is OK Pop-up will appear on your site. To change settings for "
+"Pop-up widget go to Your SendPulse account and modify them."
+msgstr ""
+
+#: sendpulse-popups.php:115
+#, php-format
+msgid ""
+"For more info you can check SendPulse Knowledge Base - Pop-ups section <a "
+"href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
